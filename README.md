@@ -1,4 +1,4 @@
-# Machine Predictive Maintenance Classification
+# Predictive Maintenance in Industrial Machinery Using ML
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-orange.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0.87.0-blueviolet.svg)
