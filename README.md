@@ -76,5 +76,5 @@ This application uses a synthetic dataset for illustrative purposes. Real predic
 Feel free to explore the application and experiment with different input values to observe how the predictive model performs for predictive maintenance classification.
 
 ---
-*Author: [Rushikesh Kothawade]*
-*Date: [05/08/2023]*
+*Author: [Jashwanth Kumar]*
+*Date: [14/09/2024]*
